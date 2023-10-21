@@ -8,5 +8,6 @@ www.saucedemo.com
 - Screenshot hasil report automation Anda dan upload source code ke Github/GitLab
 
 Project Automation Test di branch master
+
 Link Screenshoot :
 https://drive.google.com/drive/folders/1niJEwjkoa2On7dr_dyrTKkGNKZLKovPM?usp=sharing
