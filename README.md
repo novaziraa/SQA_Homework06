@@ -7,5 +7,6 @@ www.saucedemo.com
 - Minimal 4 ﬁtur menggunakan cucumber dengan minimal 1 ﬁtur negative case
 - Screenshot hasil report automation Anda dan upload source code ke Github/GitLab
 
+Project Automation Test di branch master
 Link Screenshoot :
 https://drive.google.com/drive/folders/1niJEwjkoa2On7dr_dyrTKkGNKZLKovPM?usp=sharing
