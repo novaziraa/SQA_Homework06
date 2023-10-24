@@ -6,7 +6,7 @@ Deskripsi Homework :
 - Create min 4 features using Cucumber and there is min 1 features for negative case
 - Screenshot the automation report result and upload source code to Github/Gitlab
 
-Project Automation Test di branch master
+Project Automation Test on branch master
 
 Screenshot :
 https://drive.google.com/drive/folders/1niJEwjkoa2On7dr_dyrTKkGNKZLKovPM?usp=sharing
